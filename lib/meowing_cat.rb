@@ -8,3 +8,4 @@ def meow
   puts "meow"
 end 
 
+name.meow
