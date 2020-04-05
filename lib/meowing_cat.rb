@@ -8,3 +8,6 @@ def name
   @name 
 end 
 end 
+
+cat = cat.new 
+cat.name 
